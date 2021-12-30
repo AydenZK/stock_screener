@@ -7,6 +7,6 @@ This repository contains three basic algorithmic trading projects, namely:
 
 ### Acknowledgments
 These projects have been sourced from tutorials provided by [FreeCodeCamp](https://www.freecodecamp.org/)
-Credit to Nick McCullum: 
-- https://nickmccullum.com/
+
+Course developed by Nick McCullum: 
 - https://github.com/nickmccullum/algorithmic-trading-python
