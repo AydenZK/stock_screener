@@ -1,4 +1,4 @@
-# Algorithmic Trading Porjects
+# Stock Screeners
 This repository contains three basic algorithmic trading projects, namely:
 1. An equal-weight S&P Screener
 2. Quantitative Momentum Screener
